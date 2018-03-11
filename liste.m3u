@@ -1,10 +1,2 @@
 #EXTINF:-1,TR | Kaynak 1
-#http://pro.prox7.com:8080/get.php?username=firat1&password=firat1234&type=m3u
-
-#EXTINF:-1,TR | Kaynak 2
-#http://freechoof.com:25461/get.php?username=0000&password=0000&type=m3u
-
-#EXTINF:-1,TR | beIN Sports HD 1 [1]
-http://pro.prox7.com:8080/live/firat1/firat1234/2.ts
-#EXTINF:-1,TR | beIN Sports HD 1 [2]
-http://freechoof.com:25461/live/0000/0000/3856.ts
+#http://4.31.30.140:1935/get.php?username=hchtvdigital&password=playlist&type=m3u
